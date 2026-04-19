@@ -218,8 +218,8 @@ on-mode-changed = []
     alt-shift-z = 'move-node-to-workspace Z'
 
     alt-shift-f = 'fullscreen'
-
     alt-f = 'layout floating'
+    alt-cmd-shift-q = 'close'
 
     # See: https://nikitabobko.github.io/AeroSpace/commands#workspace-back-and-forth
     alt-tab = 'workspace-back-and-forth'
